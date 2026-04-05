@@ -1,12 +1,3 @@
 # Ignorar ficheiros do sistema
 .DS_Store
 Thumbs.db
-
-# Ignorar pastas do VS Code
-.vscode/
-
-# Ignorar node_modules (se usares JS no futuro)
-node_modules/
-
-# Ignorar ficheiros temporários
-*.log
